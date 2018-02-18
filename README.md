@@ -1,2 +1,3 @@
 # TubesAbsensi
-Simple Absent Desktop apps for Oriented Objected Course Telkom University
+Presence desktop apps for Oriented Objected Course Telkom University
+
